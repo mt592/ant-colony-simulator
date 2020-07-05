@@ -1,6 +1,6 @@
 # Ant Colony Simulation
 
-This Java app simulates the characteristic of an ant colony - with various types of colony members, assigned different duties. The ants can move around the colony, attack, forage, defend, etc. based on the type of ant they are. The simulator allows the user to advance through several "days" where the ant colony performs a collection of random tasks. Eventually the ant colony will die out once the queen is attacked. 
+This Java app simulates the characteristics of an ant colony - with various types of colony members assigned different duties. The ants can move around the colony, attack, forage, defend, etc. based on the type of ant they are. The simulator allows the user to advance through several "days" where the ant colony performs a collection of random tasks. Eventually the ant colony will die out once the queen is attacked. 
 
 This app was created as part of my master's program in a class centered on learning OOP in Java.
 
@@ -17,6 +17,6 @@ The GUI will open, giving the user options to start with ```Normal Setup```, whi
 The user can click on ```Step``` to advance the simulation step-by-step or ```Run``` to have the simulation run on it's own. As the simulation runs the number of days that have passed will increase, and the grid will expand as ants take their actions.
 
 
-<img src="./images/screenshot3.png" alt="/images/screenshot3" width="700" height="400"/>
+<img src="./images/screenshot3.png" alt="/images/screenshot3" width="700" height="500"/>
 
-<img src="./images/screenshot4.png" alt="/images/screenshot4" width="700" height="400"/>
+<img src="./images/screenshot4.png" alt="/images/screenshot4" width="700" height="500"/>
