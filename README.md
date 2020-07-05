@@ -8,15 +8,15 @@ This app was created as part of my master's program in a class centered on learn
 
 Launch the simulator by compiling the project and running it via ```Driver.java```.
 
-<img src="screenshot1.png" alt="/images/screenshot1" width="250" height="250"/>
+<img src="./images/screenshot1.png" alt="/images/screenshot1" width="250" height="250"/>
 
 The GUI will open, giving the user options to start with ```Normal Setup```, which will cause a 3x3 grid to appear, representing the beginning of the colony.
 
-<img src="screenshot2.png" alt="/images/screenshot2" width="250" height="250"/>
+<img src="./images/screenshot2.png" alt="/images/screenshot2" width="250" height="250"/>
 
 The user can click on ```Step``` to advance the simulation step-by-step or ```Run``` to have the simulation run on it's own. As the simulation runs the number of days that have passed will increase, and the grid will expand as ants take their actions.
 
 
-<img src="screenshot3.png" alt="/images/screenshot3" width="250" height="250"/>
+<img src="./images/screenshot3.png" alt="/images/screenshot3" width="250" height="250"/>
 
-<img src="screenshot4.png" alt="/images/screenshot4" width="250" height="250"/>
+<img src="./images/screenshot4.png" alt="/images/screenshot4" width="250" height="250"/>
